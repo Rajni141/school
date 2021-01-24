@@ -1,0 +1,93 @@
+body{
+      text-align: center;
+      background-color: burlywood;
+      color: black;
+      text-decoration: none;
+      font-family: monospace;
+      font-size: 20px;
+}
+#aboutus{
+      font-family: cursive;
+      color: firebrick;
+      background-color: beige;
+      font-size: 18px;
+}
+h1{
+    
+      text-decoration: underline;
+      text-decoration-color: crimson;
+}
+img{
+      text-align: center;
+      width: 150px;
+      height: 150px;
+      
+}
+h3{
+      color: goldenrod;
+
+}
+#logo{
+      width: 550px;
+      height: 550px;
+      
+}
+#arya{
+      font-family: fantasy;
+      color: darkred;
+}
+h4{
+      font-family: sans-serif;
+      font-size: 16px;
+      color: maroon;
+}
+#purpose{
+      color: darkgoldenrod;
+      font-family: times;
+}
+#goal{
+      font-family: inherit;
+      color: sienna;
+}
+#teaching{
+      background-color: azure;
+      color: darkcyan;
+      font-family: 'Dancing Script', cursive;
+}
+p{
+      font-size: 14px;
+      color: black;
+      font-family: times;
+      width: auto;
+      text-align: center;
+      background-color: aquamarine;
+}
+#v{
+       text-decoration: underline;
+      text-decoration-color: crimson;
+}
+marquee{
+      font-size: 22px;
+      font-family: fantasy;
+      color: blueviolet;
+      
+}
+#vid{
+      height: 250px;
+      height: 250px;
+}
+#head{
+      color: darkolivegreen;
+      font-family: monospace;
+}
+.my_nav_bar {
+      position: sticky;
+      top: 0;
+      z-index: 99999;
+      font-family: cursive;
+      font-size: 18px;
+      color: crimson}
+#p{
+      font-family: inherit;
+      color: red;
+}
